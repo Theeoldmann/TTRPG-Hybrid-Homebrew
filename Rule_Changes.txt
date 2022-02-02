@@ -1,0 +1,6 @@
+Using Pathfinder 1e ruleset, pulling 'things' in through conversion (D&D 3.0e & 3.5e)
+Skills Changes:
+	Athletics = Climb & Swim
+	Diplomacy = Bluff, Intimidate, & Diplomacy
+	Autohypnosis = added for psionic chars, look at D&D 3.5 Expanded Psionics Handbook
+	
