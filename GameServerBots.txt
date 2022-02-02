@@ -1,0 +1,28 @@
+Mac, the test bot
+	Keywords (for bot response):
+				"sad", "depressed", "unhappy", "angry", "miserable", "depressing"
+				
+				Example:
+					You say: "I'm feeling sad.", Bot automatically says (random choice pick): "Cheer up!" <-- or something like that
+	Commands:
+				$list									<----- shows all possible responses
+				$new [Enter new response]				<----- add a new reponse
+				$del [Enter exact words]				<----- delete a response in exact words
+				$responding true						<----- turns responses on
+				$responding [Enter anything here]		<----- turns responses off
+				$inspire								<----- returns a inspirational quote
+				
+				Examples:
+					You say: "$list", Bot returns: 
+
+Smokey Braun & Maey Addison's Trading Co.
+	Commands:
+				!
+
+Mumbles Garrick & Casey Luxlum Training Hall
+	Commands:
+				!
+
+Waggins  Squint's "..Specialty Goods.."
+	Commands:
+				!
