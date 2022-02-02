@@ -5,12 +5,12 @@ Mac, the test bot
 				Example:
 					You say: "I'm feeling sad.", Bot automatically says (random choice pick): "Cheer up!" <-- or something like that
 	Commands:
-				$list									<----- shows all possible responses
+				$list							<----- shows all possible responses
 				$new [Enter new response]				<----- add a new reponse
 				$del [Enter exact words]				<----- delete a response in exact words
-				$responding true						<----- turns responses on
-				$responding [Enter anything here]		<----- turns responses off
-				$inspire								<----- returns a inspirational quote
+				$responding true					<----- turns responses on
+				$responding [Enter anything here]			<----- turns responses off
+				$inspire						<----- returns a inspirational quote
 				
 				Examples:
 					You say: "$list", Bot returns: 
